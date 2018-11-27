@@ -1,18 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Unlock');
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+@import url('https://fonts.googleapis.com/css?family=Boogaloo');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+@import url('https://fonts.googleapis.com/css?family=Warnes');
+@import url('https://fonts.googleapis.com/css?family=Bangers'); 
 body {
+
 	background-color: lightblue;
 }
 h1 {
-	font-family: helvetica, san-serif;
+	font-family: Righteous, cursive;
 	text-align: center;
-	text-decoration: underline;
-	color: rgb(102, 51, 0);
+	color: darkblue;
 	font-size: 40px;
+	font-style: italic;
+	text-decoration: underline;
 
 
 }
 body {
+	font-family: "Sigmar One", cursive;
+	font-size: 1em;
 	text-align: normal;
-	font-weight: normal;
+	font-weight: bold;
 
 }
 .center{
@@ -24,23 +34,24 @@ body {
 
 p
 {
-	font-size: 20px;
+	font-size: 1.5em;
 	text-align: center;
-}
+}	
 
 ul {
-	color: rgb(102, 51, 0);
-	text-decoration: underline; 
-	font-size: 20px;
+	font-family: Unlock, cursive;
+	color: blue;
+	font-size: 25px;
 	font-weight: normal;
 
 }
 
-a{
-	color: black; 
+a{	
+	font-family: Warnes, cursive; 
+	color: red; 
 	font-weight: bold;
 	font-style: italic;
-
+	text-align: center;
 
 
 	 }	
