@@ -1,11 +1,15 @@
-
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Warnes');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
  @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 body {
 
 	background-color: lightblue;
 }
 h1 {
-	font-family: adobe jenson pro, serif;
+	font-family: "Sedgwick Ave", cursive;
 	text-align: center;
 	text-decoration: underline;
 	color: black;
@@ -15,8 +19,8 @@ h1 {
 
 }
 body {
-	font-family: "Fjalla One", serif;
-
+	font-family: Lobster, cursive;
+	font-size: 25px;
 	text-align: normal;
 	font-weight: bold;
 
@@ -29,23 +33,26 @@ body {
 }
 
 p
-{
+{	font-family: "Archivo Black, sans-serif;
 	font-size: 1.5em;
 	text-align: center;
 }	
 
 ul {
+	font-family: Cinzel, serif;
 	color: blue;
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: normal;
+
 
 }
 
-a{
+a{	
+	font-family: "Archivo Black", sans-serif;
 	color: black; 
 	font-weight: bold;
 	font-style: italic;
-
+	text-align: center;
 
 
 	 }	
