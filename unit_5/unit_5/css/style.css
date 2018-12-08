@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Warnes');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
+ @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+
+body {
+	background-color: white;
+}
+
+
+header{
+	text-align: center;
+	text-decoration: underline;
+	background-color: #ffed74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav{
+	color: blue;
+	text-align: center;
+	font-size: 25px;
+	display: inline;
+	word-spacing: 75px;
+	background-color: #e8c66a;
+	border: 1px black solid;
+
+}
+main{
+	border: 1px black solid;
+	padding: 20px;
+	background: #e89c6c;
+}
+
+section{
+	background-color: #ffe2b8;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer{
+	background-color: #ff957e;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+
+
+h1,h2,h3,body,h4 {
+	font-family: "Playfair Display SC, serif;
+	text-align: center;
+	text-decoration: normal;
+	color: black;
+	font-size: 45px;
+	
+
+
+}
+h2{
+
+	
+	text-align: center;
+	text-decoration: underline;
+	color: black;
+	font-size: 33px;
+	font-style: normal;
+
+}
+h3{
+	
+	text-align: center;
+	text-decoration: underline;
+	color: black;
+	font-size: 33px;
+	font-style: normal;
+	
+
+}
+body {
+	
+	font-size: 25px;
+	text-align: normal;
+	font-weight: bold;
+
+
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+
+}
+
+p {	font-family: "Playfair Display SC;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+
+ul {
+	font-family: "Quicksand", sans-serif;
+	color: blue;
+	font-size: 25px;
+	font-weight: normal;
+
+
+}
+h4{
+	
+	text-align: center;
+	text-decoration: underline;
+	color: black;
+	font-size: 33px;
+	font-style: normal;
+	
+
+}
+
+}
+a{	
+	font-family: "Quicksand, sans-serif;
+	color: black; 
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+
+
+	 }	
+
+
+
+
+
+
